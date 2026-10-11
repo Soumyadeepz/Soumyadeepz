@@ -56,6 +56,22 @@
 
 
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Soumyadeepz&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soumyadeepz&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img width="60%" src="https://streak-stats.demolab.com?user=Soumyadeepz&theme=tokyonight&hide_border=true" />
+
+</div>
+
+
+
 <!--
 **Soumyadeepz/Soumyadeepz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
