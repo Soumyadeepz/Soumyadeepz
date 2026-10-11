@@ -28,32 +28,17 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
 
-<h3 align="center">Languages</h3>
+<h2 align="center">⚡ TECH STACK</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,python" />
-</p>
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Soumyadeepz/Soumyadeepz/main/tech-stack-3d-dynamic.gif"
+    width="100%"
+    alt="Animated 3D Tech Stack"
+  />
+</div>
 
-<h3 align="center">Frontend & Backend</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
-</p>
-
-<h3 align="center">Database & Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,docker,linux" />
-</p>
-
-<h3 align="center">AI & GenAI</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-</p>
 
 
 
