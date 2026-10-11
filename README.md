@@ -1,3 +1,10 @@
+<div align="center">
+  <img
+    src="assets/terminal-banner.png"
+    width="100%"
+    alt="Developer Banner"
+  />
+</div>
 ## Hi there 👋
 
 <!--
