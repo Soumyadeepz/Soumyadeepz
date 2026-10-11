@@ -75,17 +75,29 @@
 
 ## Featured Projects
 
+
 <div align="center">
-<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=get-me-a-chai&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Get Me a Chai"/>
-<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=CHAT-APP&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Chat App"/>
-<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=DeepMind-Arii&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="DeepMind-Arii"/>
-<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=SPOTIFY-CLONE&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Spotify Clone"/>
-<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=TASK-MANAGER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Task Manager"/>
-<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=ROUND-ROBIN-LOAD-BALANCER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Round Robin Load Balancer"/>
+
+  <a href="https://ticket-booking-6ke492be9-soumyadeep-das-projects.vercel.app/login">
+    <img
+      width="49%"
+      src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=Soumyadeepz&repo=Ticket-Booking&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344"
+      alt="Movie Ticket Booking App"
+    />
+  </a>
+
+  <a href="https://ticket-booking-6ke492be9-soumyadeep-das-projects.vercel.app/login">
+    <img
+      width="49%"
+      src="https://placehold.co/600x200/0A101F/22D3EE?text=Movie+Ticket+Booking+App"
+      alt="Movie Ticket Booking App Live Demo"
+    />
+  </a>
+
 </div>
 
-
 <br/>
+
 
 
  Contribution Snake
