@@ -72,6 +72,87 @@
 
 
 
+
+
+
+
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎬 Movie Information Extractor
+
+Extract movie details, cast, genre, director, and summaries using LangChain and an LLM.
+
+**Tech:** Python, LangChain, Mistral, Pydantic, Streamlit
+
+[View Repository](YOUR_MOVIE_PROJECT_URL)
+
+</td>
+<td width="50%">
+
+### 💬 Real-Time Chat Application
+
+A real-time messaging application built with web technologies.
+
+**Tech:** React, Node.js, Express, MongoDB, Socket.IO
+
+[View Repository](https://github.com/Soumyadeepz/whatsapp---clone)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎟️ Ticket Booking System
+
+A booking application for managing ticket reservations.
+
+**Tech:** Replace with the technologies used in your project.
+
+[View Repository](https://github.com/Soumyadeepz/Ticket-Booking)
+
+</td>
+<td width="50%">
+
+### 🤖 Multi-Agent AI Platform
+
+An AI application with a PowerPoint generation workflow.
+
+**Tech:** MERN, LangGraph, LangChain, Redis, Qdrant
+
+[View Repository](YOUR_AI_PROJECT_URL)
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+<h3 align="center">🤝 Let's Connect</h3>
+
+<p align="center">
+  <a href="https://github.com/Soumyadeepz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  💻 Building projects, learning continuously, and exploring GenAI.
+</p>
+
+
+
 <!--
 **Soumyadeepz/Soumyadeepz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
