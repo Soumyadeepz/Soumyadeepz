@@ -76,27 +76,62 @@
 ## Featured Projects
 
 
+
+<h2 align="center">🎬 Featured Project</h2>
+<h3 align="center">✦ Movie Ticket Booking Platform ✦</h3>
+
 <div align="center">
-
-  <a href="https://ticket-booking-6ke492be9-soumyadeep-das-projects.vercel.app/login">
+  <a href="https://ticket-booking-neon-ten.vercel.app/" target="_blank">
     <img
-      width="49%"
-      src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=Soumyadeepz&repo=Ticket-Booking&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344"
-      alt="Movie Ticket Booking App"
+      src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=Soumyadeepz&repo=Ticket-Booking&theme=dark&title_color=22D3EE&text_color=CBD5E1&icon_color=22D3EE&bg_color=0B1120&border_color=22D3EE"
+      width="80%"
+      alt="Movie Ticket Booking Project"
     />
   </a>
 
-  <a href="https://ticket-booking-6ke492be9-soumyadeep-das-projects.vercel.app/login">
+  <br/><br/>
+
+  <a href="https://ticket-booking-neon-ten.vercel.app/">
     <img
-      width="49%"
-      src="https://placehold.co/600x200/0A101F/22D3EE?text=Movie+Ticket+Booking+App"
-      alt="Movie Ticket Booking App Live Demo"
+      src="https://img.shields.io/badge/🚀_LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=black"
+      alt="Live Demo"
     />
   </a>
-
+  &nbsp;
+  <a href="https://github.com/Soumyadeepz/Ticket-Booking">
+    <img
+      src="https://img.shields.io/badge/💻_SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"
+      alt="Source Code"
+    />
+  </a>
 </div>
 
 <br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        🎟️<br/><b>Movie Booking</b><br/>
+        <sub>Browse and book tickets</sub>
+      </td>
+      <td align="center" width="33%">
+        ⚡<br/><b>Modern UI</b><br/>
+        <sub>Responsive user experience</sub>
+      </td>
+      <td align="center" width="33%">
+        🔒<br/><b>Full-Stack App</b><br/>
+        <sub>Explore the live deployment</sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<p align="center">
+  <i>Discover movies. Choose your seats. Book your experience.</i>
+</p>
+
+
 
 
 
