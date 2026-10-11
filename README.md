@@ -1,9 +1,9 @@
 
 <div align="center">
   <img
-    src="./terminal-banner.png"
+    src="https://raw.githubusercontent.com/Soumyadeepz/Soumyadeepz/main/terminal-banner-animated.gif"
     width="100%"
-    alt="Developer Banner"
+    alt="Animated Terminal Banner"
   />
 </div>
 
