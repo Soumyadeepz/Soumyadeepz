@@ -73,8 +73,6 @@
 
 
 
-## Featured Projects
-
 
 
 <h2 align="center">🎬 Featured Project</h2>
