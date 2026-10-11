@@ -1,11 +1,13 @@
 
+
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Soumyadeepz/Soumyadeepz/main/terminal-banner-animated.gif"
+    src="https://raw.githubusercontent.com/Soumyadeepz/Soumyadeepz/main/soumyadeep-3d-animated-banner.gif"
     width="100%"
-    alt="Animated Terminal Banner"
+    alt="Soumyadeep Das - Animated 3D Developer Banner"
   />
 </div>
+```
 
 ## Hi there 👋
 
