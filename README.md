@@ -73,63 +73,19 @@
 
 
 
+## Featured Projects
+
+<div align="center">
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=get-me-a-chai&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Get Me a Chai"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=CHAT-APP&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Chat App"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=DeepMind-Arii&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="DeepMind-Arii"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=SPOTIFY-CLONE&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Spotify Clone"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=TASK-MANAGER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Task Manager"/>
+<img width="49%" src="https://github-readme-stats-ruby-eight-70.vercel.app/api/pin/?username=subhradeepkundu270305&repo=ROUND-ROBIN-LOAD-BALANCER&theme=dark&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&border_color=2A3344" alt="Round Robin Load Balancer"/>
+</div>
 
 
-
-
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎬 Movie Information Extractor
-
-Extract movie details, cast, genre, director, and summaries using LangChain and an LLM.
-
-**Tech:** Python, LangChain, Mistral, Pydantic, Streamlit
-
-[View Repository](YOUR_MOVIE_PROJECT_URL)
-
-</td>
-<td width="50%">
-
-### 💬 Real-Time Chat Application
-
-A real-time messaging application built with web technologies.
-
-**Tech:** React, Node.js, Express, MongoDB, Socket.IO
-
-[View Repository](https://github.com/Soumyadeepz/whatsapp---clone)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎟️ Ticket Booking System
-
-A booking application for managing ticket reservations.
-
-**Tech:** Replace with the technologies used in your project.
-
-[View Repository](https://github.com/Soumyadeepz/Ticket-Booking)
-
-</td>
-<td width="50%">
-
-### 🤖 Multi-Agent AI Platform
-
-An AI application with a PowerPoint generation workflow.
-
-**Tech:** MERN, LangGraph, LangChain, Redis, Qdrant
-
-[View Repository](YOUR_AI_PROJECT_URL)
-
-</td>
-</tr>
-</table>
+<br/>
 
 
  Contribution Snake
