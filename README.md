@@ -118,60 +118,7 @@
 
 
 
-##
-<h2 align="center">🧠 Featured Project</h2>
-<h3 align="center">✦ Mental Health Score Prediction ✦</h3>
 
-<div align="center">
-  <a href="https://onrender.com" target="_blank">
-    <img
-      src="https://vercel.app"
-      width="80%"
-      alt="Mental Health Score Prediction Project"
-    />
-  </a>
-
-  <br/><br/>
-
-  <a href="https://onrender.com" target="_blank">
-    <img
-      src="https://shields.io🚀_LIVE_DEMO-00D9FF?style=for-the-badge&logo=render&logoColor=black"
-      alt="Live Demo"
-    />
-  </a>
-  &nbsp;
-  <a href="https://github.com" target="_blank">
-    <img
-      src="https://shields.io💻_SOURCE_CODE-111827?style=for-the-badge&logo=github&logoColor=white"
-      alt="Source Code"
-    />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        📊<br/><b>Habit Analytics</b><br/>
-        <sub>Track screen time, sleep & stress</sub>
-      </td>
-      <td align="center" width="33%">
-        🤖<br/><b>ML Prediction</b><br/>
-        <sub>Real-time 0–10 wellness score</sub>
-      </td>
-      <td align="center" width="33%">
-        ⚡<br/><b>Full-Stack App</b><br/>
-        <sub>Deployed end-to-end on Render</sub>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <i>Track your daily rhythm. Analyze digital habits. Predict your wellness score.</i>
-</p>
 
 
 
